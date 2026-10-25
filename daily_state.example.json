@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-20",
+  "status": "LOADED",
+  "jenis_penugasan": "Paid Promod",
+  "tasks_criteria": [
+    {
+      "task_id": 1,
+      "tipe": "Story",
+      "hashtags": [
+        "#Indonesia",
+        "#2026",
+        "#DIVISI"
+      ],
+      "sticker_link": null,
+      "keyword": null,
+      "tag_required": false,
+      "ajakan_required": false
+    }
+  ]
+}

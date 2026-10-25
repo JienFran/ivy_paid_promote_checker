@@ -1,0 +1,26 @@
+﻿# Rahasia
+credentials.json
+cookies.json
+.env
+
+# Data pribadi / hasil runtime
+targets.json
+daily_state.json
+checked_accounts.json
+report/
+ivy_chrome_data/
+.vscode/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Documentation
+documentation/
+
+# Others
+structure.txt
+note.txt
+todo

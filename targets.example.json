@@ -1,0 +1,20 @@
+[
+  {
+    "divisi": "VAULT",
+    "anggota": [
+      {
+        "username": "username",
+        "nama": "Nama Lengkap"
+      }
+    ]
+  },
+  {
+    "divisi": "ARENA",
+    "anggota": [
+      {
+        "username": "zuck",
+        "nama": "Mark Zuckerberg"
+      }
+    ]
+  }
+]
