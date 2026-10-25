@@ -28,8 +28,8 @@ Program command-line untuk memeriksa apakah daftar akun Instagram sudah mengerja
 ## Instalasi
 
 ```powershell
-git clone <url-repo-anda>
-cd <folder-repo>
+git clone https://github.com/JienFran/ivy_paid_promote_checker.git
+cd ivy_paid_promote_checker
 
 python -m venv venv
 .\venv\Scripts\activate
