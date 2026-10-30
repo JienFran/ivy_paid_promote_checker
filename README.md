@@ -17,6 +17,12 @@ Program command-line untuk memeriksa apakah daftar akun Instagram sudah mengerja
 9. [Mengatasi masalah](#mengatasi-masalah)
 10. [Privasi dan keamanan](#privasi-dan-keamanan)
 
+## Screenshots
+<img width="1775" height="603" alt="Main Page" src="https://github.com/user-attachments/assets/5a6daa3f-2f48-4b8e-a6ca-c1a0b7b5ffc7" />
+<img width="763" height="542" alt="Page 1" src="https://github.com/user-attachments/assets/7e79edd3-13fd-4fd1-91ab-704cb5716971" />
+<img width="881" height="747" alt="Page 2" src="https://github.com/user-attachments/assets/dc3cfb2f-0e24-4326-a06f-19e31cb8f5a6" />
+
+
 ## Kebutuhan
 
 - Python 3.12
